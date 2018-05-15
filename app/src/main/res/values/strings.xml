@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProductsDemo</string>
+    <string name="error">Something wrong happened.</string>
+    <string name="no_products">No products found</string>
+    <string name="search">Search</string>
+    <string name="sorting_applied">Sorting Applied : Lowest price first</string>
+    <string name="sorting_removed">Sorting Removed</string>
+    <string name="filter_removed">Filter removed</string>
+    <string name="filter_applied">Filter applied : Products On Sale</string>
+    <string name="product_on_sale">Product On Sale</string>
+</resources>
